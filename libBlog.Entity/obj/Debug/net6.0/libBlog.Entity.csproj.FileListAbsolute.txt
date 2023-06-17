@@ -1,0 +1,15 @@
+C:\Users\nxthi\source\repos\Blog\libBlog.Entity\bin\Debug\net6.0\libBlog.Entity.deps.json
+C:\Users\nxthi\source\repos\Blog\libBlog.Entity\bin\Debug\net6.0\libBlog.Entity.dll
+C:\Users\nxthi\source\repos\Blog\libBlog.Entity\bin\Debug\net6.0\libBlog.Entity.pdb
+C:\Users\nxthi\source\repos\Blog\libBlog.Entity\bin\Debug\net6.0\Blog.Core.dll
+C:\Users\nxthi\source\repos\Blog\libBlog.Entity\bin\Debug\net6.0\Blog.Core.pdb
+C:\Users\nxthi\source\repos\Blog\libBlog.Entity\obj\Debug\net6.0\libBlog.Entity.csproj.AssemblyReference.cache
+C:\Users\nxthi\source\repos\Blog\libBlog.Entity\obj\Debug\net6.0\libBlog.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nxthi\source\repos\Blog\libBlog.Entity\obj\Debug\net6.0\libBlog.Entity.AssemblyInfoInputs.cache
+C:\Users\nxthi\source\repos\Blog\libBlog.Entity\obj\Debug\net6.0\libBlog.Entity.AssemblyInfo.cs
+C:\Users\nxthi\source\repos\Blog\libBlog.Entity\obj\Debug\net6.0\libBlog.Entity.csproj.CoreCompileInputs.cache
+C:\Users\nxthi\source\repos\Blog\libBlog.Entity\obj\Debug\net6.0\libBlog.Entity.csproj.CopyComplete
+C:\Users\nxthi\source\repos\Blog\libBlog.Entity\obj\Debug\net6.0\libBlog.Entity.dll
+C:\Users\nxthi\source\repos\Blog\libBlog.Entity\obj\Debug\net6.0\refint\libBlog.Entity.dll
+C:\Users\nxthi\source\repos\Blog\libBlog.Entity\obj\Debug\net6.0\libBlog.Entity.pdb
+C:\Users\nxthi\source\repos\Blog\libBlog.Entity\obj\Debug\net6.0\ref\libBlog.Entity.dll
